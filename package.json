@@ -1,6 +1,6 @@
 {
   "name": "emojo",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Some mojo for emoji.",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "files": [
     "index.js",
     "db"
-  ],  
+  ],
   "author": "codefreezr",
   "license": " CC0-1.0",
   "bugs": {
