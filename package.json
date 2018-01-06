@@ -23,7 +23,11 @@
     "emoticons",
     "symbols"
   ],
-  "author": "CodeFreez",
+  "files": [
+    "index.js",
+    "db"
+  ],  
+  "author": "codefreezr",
   "license": " CC0-1.0",
   "bugs": {
     "url": "https://github.com/CodeFreezr/emojo/issues"

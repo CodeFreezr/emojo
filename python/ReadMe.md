@@ -1,3 +1,3 @@
 # 🐍 pymo 🐍
 
-Find here some #python stuff.
+Find here some smart #python stuff.
