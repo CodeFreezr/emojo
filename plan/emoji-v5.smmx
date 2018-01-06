@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.19.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="50198DE5EE6E41208D74E8945642CDFF"/>
+<title text="emoji 5.0"/>
+<style key="system.colors-on-black-palette">
+<mindmap>
+<backgroundcolor r="27" g="27" b="27"/>
+</mindmap>
+</style>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="80" x="-810" y="-43"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="k_pE0xO65UaWArgzLIn5-A" x="-48.75" y="529.50" palette="1" colorinfo="-1" text="emoji 5.0">
+<style borderwidth="6.00">
+<strokecolor r="0" g="0" b="0"/>
+</style>
+<fillcolor r="0" g="0" b="0"/>
+<strokecolor r="0" g="0" b="0"/>
+</topic>
+<topic id="1" parent="0" guid="ZPvlKRK4h0uhr0QOCdMeTw" x="316.06" y="346.33" layout="strict-horizontal" layout-direction="manual" palette="2" colorinfo="2" icon="ic8_48_emoticon_wink" text="1 - smileys &amp; people">
+<parent-relation guid="zODVueAI9E2U7E2fUC12qA">
+<style line-style="penReverseTapered" line-width="6.00"/>
+<path>
+<custom-point x="25.72" y="68.34"/>
+</path>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#smileys_&amp;_people"/>
+</topic>
+<topic id="2" parent="1" guid="gdXljf5Y7EurtzTAHH-qPQ" x="544.12" y="123.53" collapsed="True" text="monkey-face">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#monkey-face"/>
+</topic>
+<topic id="3" parent="2" guid="Ygnkx90p-0-nr8HPgyjjqw" x="658.54" y="123.53" text="🙈"/>
+<topic id="4" parent="2" guid="x9xVv3I4VUGJVeECCjQQCg" x="658.54" y="123.53" text="🙉"/>
+<topic id="5" parent="4" guid="SknrJclX5UqRmMdeWfpSwg" x="708.54" y="123.53" text="speak-no-evil monkey"/>
+<topic id="6" parent="4" guid="5H1f4H_iAkKCAH0led-tZg" x="708.54" y="123.53" text="Unicode"/>
+<topic id="7" parent="6" guid="wq6ctlbcOE-g-dUlyBSS7g" x="758.54" y="123.53" text="Images"/>
+<topic id="8" parent="6" guid="ENHmnvvSaEiAeDaMrINTZA" x="758.54" y="123.53" text="CLDR"/>
+<topic id="9" parent="8" guid="WW9OvpPBdUGIA6rY_FQK2g" x="808.54" y="123.53" text="Germanic">
+<link urllink="https://unicode.org/cldr/charts/dev/annotations/germanic.html#🙉"/>
+</topic>
+<topic id="10" parent="8" guid="WjHAgcyArUudif9n3R2V0w" x="808.54" y="123.53" text="Romanic">
+<link urllink="http://unicode.org/cldr/charts/dev/annotations/romance.html#🙉"/>
+</topic>
+<topic id="11" parent="8" guid="O8z9uWs9-E2Zmco3y-GbvQ" x="808.54" y="123.53" text="slavic">
+<link urllink="http://unicode.org/cldr/charts/dev/annotations/slavic.html#🙉"/>
+</topic>
+<topic id="12" parent="6" guid="XTygSKXbD0OEbT-P6noG1A" x="758.54" y="123.53" text="Spec"/>
+<topic id="13" parent="4" guid="ZJoq84U4Tk6KD6m4bdAV-A" x="708.54" y="123.53" text="Web"/>
+<topic id="14" parent="13" guid="jBhiOeN_W0CmOI7muJOKMg" x="758.54" y="123.53" text="Emojipedia"/>
+<topic id="15" parent="13" x="758.54" y="123.53" text="Emojindex"/>
+<topic id="16" parent="2" guid="CsAUW-OV70CcvPuvSBxgFg" x="658.54" y="123.53" text="🙊"/>
+<topic id="17" parent="1" guid="9x3GwPF640KoT22nH6ScYw" x="525.12" y="171.09" text="person">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#person"/>
+</topic>
+<topic id="18" parent="1" guid="Lw7bc1tmLE29KG8y-QSamw" x="539.62" y="215.65" text="person-role">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#person-role"/>
+</topic>
+<topic id="19" parent="1" guid="XPPf7ncfM0agh2uY3IAYAQ" x="550.12" y="260.21" text="person-fantasy">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#person-fantasy"/>
+</topic>
+<topic id="20" parent="1" guid="Hc94zzhrL06bQnZJbx_gQg" x="550.62" y="304.77" text="person-gesture">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#person-gesture"/>
+</topic>
+<topic id="21" parent="1" guid="uFIAgISR_kqbSTJXpiB_LQ" x="550.12" y="349.33" text="person-activity">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#person-activity"/>
+</topic>
+<topic id="22" parent="1" guid="BVLglwAIrUeS6zsgpWI8QQ" x="543.12" y="393.89" text="person-sport">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#person-sport"/>
+</topic>
+<topic id="23" parent="1" guid="4LDrOtZ1o0iOMEEHKCFT3g" x="524.12" y="438.45" text="family">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#family"/>
+</topic>
+<topic id="24" parent="1" guid="sWRfuLrmHEuFgc7z68OWhg" x="519.62" y="483.01" text="body">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#body"/>
+</topic>
+<topic id="25" parent="1" guid="LKHR9GhMr0yZeC6y2Xp05A" x="529.62" y="527.57" text="emotion">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#emotion"/>
+</topic>
+<topic id="26" parent="1" guid="nk_LGSDMnU2nYhHLMjApDg" x="529.12" y="572.13" text="clothing">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#clothing"/>
+</topic>
+<topic id="27" parent="1" guid="VRTPq43myk2rx9Of39rboA" x="88.00" y="212.65" text="face-positive">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#face-positive"/>
+</topic>
+<topic id="28" parent="1" guid="6YJsEuuz10ytwF3sxtUhog" x="90.00" y="257.21" text="face-neutral">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#face-neutral"/>
+</topic>
+<topic id="29" parent="1" guid="IF_lYyCXZ0OwjY0UVlYmUQ" x="85.00" y="301.77" text="face-negative">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#face-negative"/>
+</topic>
+<topic id="30" parent="1" guid="59Gbgn-zL0SVA1fuXJXiDw" x="100.00" y="346.33" text="face-sick">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#face-sick"/>
+</topic>
+<topic id="31" parent="1" guid="Egv4PDr_NkaUdAc8VfsjVQ" x="100.00" y="390.89" text="face-role">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#face-role"/>
+</topic>
+<topic id="32" parent="1" guid="-R-8Htw_w02wzFaxR0XyNA" x="89.50" y="435.45" text="face-fantasy">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#face-fantasy"/>
+</topic>
+<topic id="33" parent="1" guid="dY7Q6wk-1EW_SH80aHqSaw" x="103.50" y="480.01" text="cat-face">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#cat-face"/>
+</topic>
+<topic id="34" parent="0" guid="l9BUFLM9oUqr4VPyy5ONRQ" x="160.00" y="631.75" palette="3" colorinfo="3" icon="ic8_48_lion" text="2 - animals &amp; nature">
+<parent-relation guid="ftBURxFqzUmVQIEdn6JSag">
+<style line-style="penReverseTapered" line-width="6.00"/>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#animals_&amp;_nature"/>
+</topic>
+<topic id="35" parent="34" guid="X2QjFgUcLkW8m-EA2_7Hkg" x="314.20" y="470.52" text="animal-mammal">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#animal-mammal"/>
+</topic>
+<topic id="36" parent="34" guid="LApywBtkU0OrbZrwG5dmEA" x="322.45" y="538.23" text="animal-bird">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#animal-bird"/>
+</topic>
+<topic id="37" parent="34" guid="vR1BpIpzTkSbr2ZP-OCzEA" x="374.64" y="594.11" text="animal-amphibian">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#animal-amphibian"/>
+</topic>
+<topic id="38" parent="34" guid="2S6MCGVAYESEHVx_mBjq6g" x="348.75" y="652.50" text="animal-reptile">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#animal-reptile"/>
+</topic>
+<topic id="39" parent="34" guid="TkcspG-7DEiW5WVqL6l2HQ" x="317.68" y="699.30" text="animal-marine">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#animal-marine"/>
+</topic>
+<topic id="40" parent="34" guid="iWn_4-7TE0mIjXjk_CS0DA" x="265.82" y="749.61" text="animal-bug">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#animal-bug"/>
+</topic>
+<topic id="41" parent="34" guid="u74qzlDXPka1_Bx_E1rfZw" x="186.57" y="797.77" text="plant-flower">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#plant-flower"/>
+</topic>
+<topic id="42" parent="34" guid="XpsmpEaGGEiA44kBwTwiUw" x="93.07" y="734.68" text="plant-other">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#plant-other"/>
+</topic>
+<topic id="43" parent="0" guid="PRwAg0n1-UyX-7ajyn182A" x="287.68" y="887.36" palette="4" colorinfo="4" icon="ic8_48_globe" text="4 - travel &amp; places">
+<parent-relation guid="su-nwYP5v0KKT2cAO0EQ0g">
+<style line-style="penReverseTapered" line-width="6.00"/>
+<path>
+<custom-point x="-58.22" y="105.32"/>
+</path>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#travel_&amp;_places"/>
+</topic>
+<topic id="44" parent="43" guid="_iHvjfRdVkuHkx5TY72qAw" x="506.24" y="662.06" text="place-map">
+<parent-relation guid="QiIKJ34cakKsu_RrUH6ECQ">
+<path>
+<custom-point x="-50.71" y="-2.21"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="45" parent="43" guid="68DRsFWy5UmHfet6WyykKw" x="521.24" y="717.87" text="place-geographic">
+<parent-relation guid="qLY2U8M8sEuSdIZzWYE0iA">
+<path>
+<custom-point x="4.29" y="-46.99"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="46" parent="43" x="530.74" y="768.68" text="place-building">
+<parent-relation guid="j2-s2RR57kCKkS9jZcE0IA">
+<path>
+<custom-point x="20.79" y="-31.77"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="47" parent="43" guid="HVqR0VWZiUa4PUjw8bWnZA" x="523.99" y="821.99" text="place-religious">
+<parent-relation guid="aKUE91-xLEa-oRaBeZwI0Q">
+<path>
+<custom-point x="47.29" y="-14.67"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="48" parent="43" guid="wMcIeBTTb0KV7Sk38N1hrw" x="516.74" y="881.55" text="place-other"/>
+<topic id="49" parent="43" guid="v2Vfj2ifQ0yyrN8vCfT3FQ" x="503.24" y="942.36" text="transport-ground">
+<parent-relation guid="SBrCloJvw0qaApJXn4hvJQ">
+<path>
+<custom-point x="29.54" y="17.64"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="50" parent="43" guid="WW-k392JwUKN942Cn65C5g" x="390.49" y="995.67" text="transport-water">
+<parent-relation guid="pJ4-mZQ52E6qq3N-8MwXuA">
+<path>
+<custom-point x="30.29" y="8.49"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="51" parent="43" guid="Wgk9X3ZPB0OpbZin0Z5rJQ" x="283.49" y="960.23" text="transport-air"/>
+<topic id="52" parent="43" guid="8PiJv3uaZECnMoWJQzLLog" x="187.49" y="1001.04" text="hotel">
+<parent-relation guid="w4eE1ojpwEesfWg98RyQqQ">
+<path>
+<custom-point x="-26.34" y="15.80"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="53" parent="43" guid="FPELdXiA0ESNAqPCEEeb3Q" x="72.24" y="984.35" text="time">
+<parent-relation guid="MbppflHjxkqhMj7Lve6X2Q">
+<path>
+<custom-point x="-44.96" y="34.77"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="54" parent="43" guid="mSFg4A34pE6j7wyCrB30SA" x="17.99" y="941.41" text="sky &amp; weather">
+<parent-relation guid="OkpqG4JNHEuydGmEj1fj8A">
+<path>
+<custom-point x="-31.58" y="24.37"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="55" parent="0" guid="AxnLPpz84kWWzTYSrUpPKw" x="-106.25" y="237.00" layout="strict-vertical" palette="5" colorinfo="5" icon="ic8_48_food" text="3 - food &amp; drink">
+<parent-relation guid="fs3s9lbtzEq3VnviZNnNIQ">
+<style line-style="penReverseTapered" line-width="6.00"/>
+<path>
+<custom-point x="9.38" y="13.63"/>
+</path>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#food_&amp;_drink"/>
+</topic>
+<topic id="56" parent="55" guid="v8R27kRMykyqGAUSHsbhgw" x="-493.81" y="133.82" text="food-fruit">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#food-fruit"/>
+</topic>
+<topic id="57" parent="55" guid="SKoTGnyl50GfVuwR5gL73w" x="-356.46" y="133.82" text="food-vegetable">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#food-vegetable"/>
+</topic>
+<topic id="58" parent="55" guid="vREKTu28VkenkSgWxEfmfg" x="-203.10" y="133.82" text="food-prepared">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#food-prepared"/>
+</topic>
+<topic id="59" parent="55" guid="4zSqYyV8jUCMyKF8tMvlsg" x="-64.25" y="133.82" text="food-asian">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#food-asian"/>
+</topic>
+<topic id="60" parent="55" guid="aLF8T2CbukiRU6pevXUDQQ" x="64.60" y="133.82" text="food-sweet">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#food-sweet"/>
+</topic>
+<topic id="61" parent="55" guid="U4-6xINYF0O2Ak8u8oVXrw" x="176.46" y="133.82" text="drink">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#drink"/>
+</topic>
+<topic id="62" parent="55" guid="pi_lg5kOoUODvRfTgseS2g" x="281.81" y="133.82" text="dishware">
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#dishware"/>
+</topic>
+<topic id="63" parent="0" guid="7WIZF66HRUOfMz3WaQ4NFQ" x="-318.00" y="331.64" layout="strict-horizontal" palette="6" colorinfo="6" icon="ic8_48_football" text="5 - activities">
+<parent-relation guid="v2s8g2ifB0Kd0jXZr2ECLA">
+<style line-style="penReverseTapered" line-width="6.00"/>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#activities"/>
+</topic>
+<topic id="64" parent="63" x="-483.56" y="264.80" text="event"/>
+<topic id="65" parent="63" x="-507.56" y="309.36" text="award-medal"/>
+<topic id="66" parent="63" x="-482.06" y="353.92" text="sport"/>
+<topic id="67" parent="63" x="-483.56" y="398.48" text="game"/>
+<topic id="68" parent="0" guid="nMC7vS18cEGLhpphcpmasQ" x="-520.67" y="524.83" layout="strict-horizontal" palette="7" colorinfo="7" icon="ic8_48_light_on" text="6 - objects">
+<parent-relation guid="wy2mSLlR9EGSuKlV92MewQ">
+<style line-style="penReverseTapered" line-width="6.00"/>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#objects"/>
+</topic>
+<topic id="69" parent="68" x="-682.23" y="212.91" text="sound"/>
+<topic id="70" parent="68" x="-681.73" y="257.47" text="music"/>
+<topic id="71" parent="68" x="-723.23" y="302.03" text="musical-instrument"/>
+<topic id="72" parent="68" x="-682.73" y="346.59" text="phone"/>
+<topic id="73" parent="68" x="-693.23" y="391.15" text="computer"/>
+<topic id="74" parent="68" guid="moV9rleYK0WbORkaPP8nSQ" x="-698.73" y="435.71" text="light_&amp;_video"/>
+<topic id="75" parent="68" x="-699.23" y="480.27" text="book-paper"/>
+<topic id="76" parent="68" x="-684.73" y="524.83" text="money"/>
+<topic id="77" parent="68" x="-677.23" y="569.39" text="mail"/>
+<topic id="78" parent="68" x="-685.23" y="613.95" text="writing"/>
+<topic id="79" parent="68" x="-680.23" y="658.51" text="office"/>
+<topic id="80" parent="68" x="-677.23" y="703.07" text="lock"/>
+<topic id="81" parent="68" x="-677.23" y="747.63" text="tool"/>
+<topic id="82" parent="68" x="-688.23" y="792.19" text="medical"/>
+<topic id="83" parent="68" x="-701.23" y="836.75" text="other-object"/>
+<topic id="84" parent="0" guid="OBHzcWfFLECHSCtWSZGGSQ" x="-276.25" y="781.54" layout="strict-horizontal" palette="8" colorinfo="8" icon="ic8_48_high_priority" text="7 - symbols">
+<parent-relation guid="iweuV95lW0CsCEGpIvk0eA">
+<style line-style="penReverseTapered" line-width="6.00"/>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#symbols"/>
+</topic>
+<topic id="85" parent="84" x="-466.31" y="581.02" text="transport-sign"/>
+<topic id="86" parent="84" x="-449.31" y="625.58" text="warning"/>
+<topic id="87" parent="84" x="-441.81" y="670.14" text="arrow"/>
+<topic id="88" parent="84" x="-447.31" y="714.70" text="religion"/>
+<topic id="89" parent="84" x="-444.31" y="759.26" text="zodiac"/>
+<topic id="90" parent="84" x="-454.81" y="803.82" text="av-symbol"/>
+<topic id="91" parent="84" x="-463.81" y="848.38" text="other-symbol"/>
+<topic id="92" parent="84" x="-445.31" y="892.94" text="keycap"/>
+<topic id="93" parent="84" x="-454.81" y="937.50" text="alphanum"/>
+<topic id="94" parent="84" x="-455.31" y="982.06" text="geometric"/>
+<topic id="95" parent="0" guid="EV8V-o2aQES1C6uSkWuRRw" x="-79.66" y="767.32" layout="strict-vertical" layout-direction="bottom" palette="2" colorinfo="2" icon="ic8_48_finish_flag" text="8 - flags">
+<parent-relation guid="oZptmapZYEy37KHKf_j92g">
+<style line-style="penReverseTapered" line-width="6.00"/>
+</parent-relation>
+<link urllink="https://unicode.org/emoji/charts/emoji-ordering.html#flags"/>
+</topic>
+<topic id="96" parent="95" guid="XMGO5rqfbkOggUj9JQY3cQ" x="-209.01" y="870.50" text="flag"/>
+<topic id="97" parent="95" guid="YjXDAVNifk-OVzco4p1cQg" x="-115.16" y="870.50" text="country-flag"/>
+<topic id="98" parent="95" guid="w_ucUqUR40q4niwaR0d4IQ" x="14.19" y="870.50" text="subdivision-flag"/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>
