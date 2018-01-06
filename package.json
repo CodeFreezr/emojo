@@ -1,0 +1,32 @@
+{
+  "name": "emojo",
+  "version": "1.0.0",
+  "description": "Some mojo for emoji.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeFreezr/emojo.git"
+  },
+  "keywords": [
+    "emoji",
+    "json",
+    "utf-8",
+    "v5",
+    "mojo",
+    "icons",
+    "unicode",
+    "ideogram",
+    "smiley",
+    "emoticons",
+    "symbols"
+  ],
+  "author": "CodeFreez",
+  "license": " CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/CodeFreezr/emojo/issues"
+  },
+  "homepage": "https://github.com/CodeFreezr/emojo#readme"
+}
