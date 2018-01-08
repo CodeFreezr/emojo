@@ -1,4 +1,4 @@
-# 🐹 moj 0.0.9 🐹
+# 🐸 moj 0.0.9 🐸
 
 First CLI Binaries for testing are ready.
 
